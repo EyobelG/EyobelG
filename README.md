@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi! This is Eyobel, an Ethiopian guy coding in the US. I have a math background but transitioning to the Software Engineering world.
+<img src="matrix.svg">
 <!--
 **EyobelG/EyobelG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
