@@ -35,7 +35,7 @@ Former boarding-school math teacher, now a **CS Post-Bac/M.S. candidate at Tufts
 
 **Frameworks, Web & Data**
 
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,fastapi,jquery,vite,postgres,mongodb,mysql,docker&theme=dark" alt="Frameworks and Data" />
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,fastapi,jquery,vite,postgres,mongodb,docker&theme=dark" alt="Frameworks and Data" />
 
 **Tools & Platforms**
 
