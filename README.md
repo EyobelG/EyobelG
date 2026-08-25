@@ -6,7 +6,7 @@
 
 Former boarding-school math teacher, now a **CS Post-Bac/M.S. candidate at Tufts University** (Williams College math background). I design virtual machines, optimize low-level systems, and build full-stack products — often driven by the same combinatorial graph theory I published research on.
 
-📍 Medford, MA &nbsp;·&nbsp; 🎓 Tufts University &nbsp;·&nbsp; 🟢 Open to Summer 2026 internships
+📍 Medford, MA &nbsp;·&nbsp; 🎓 Tufts University &nbsp;·&nbsp; 🟢 Open to Fall 2026 / Winter–Summer 2027 internships
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://eyobel-portfolio-xq4u.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyobelgebre/)
