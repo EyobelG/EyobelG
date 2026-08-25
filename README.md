@@ -31,7 +31,7 @@ Former boarding-school math teacher, now a **CS Post-Bac/M.S. candidate at Tufts
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,php,r,html,css,matlab&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,php,r,html,css,matlab&theme=dark" alt="Languages" />
 
 **Frameworks, Web & Data**
 
