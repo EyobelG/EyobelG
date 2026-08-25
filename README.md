@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=FBBF24&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=90&lines=Hi%2C+I'm+Eyobel+%F0%9F%91%8B;Math+%E2%86%92+Software+Engineering;Chip-Firing+Games+%2B+Systems+Programming;Building+full-stack+%2C+AI-native+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=FBBF24&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=Hi%2C+I'm+Eyobel+%F0%9F%91%8B;Math+%E2%86%92+Software+Engineering;Chip-Firing+Games+%2B+Systems+Programming;Building+full-stack+%2C+AI-native+products" alt="Typing SVG" />
 
 ### Bridging rigorous mathematics with high-performance systems
 
