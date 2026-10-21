@@ -31,7 +31,7 @@ Former boarding-school math teacher, now a **CS Post-Bac/M.S. candidate at Tufts
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,php,r,mysql,html,css,matlab&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,go,js,ts,php,r,mysql,html,css,matlab&theme=dark" alt="Languages" />
 
 **Frameworks, Web & Data**
 
@@ -39,9 +39,9 @@ Former boarding-school math teacher, now a **CS Post-Bac/M.S. candidate at Tufts
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,githubactions,heroku,latex,sklearn,vscode&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,githubactions,heroku,latex,sklearn,pytorch,vscode&theme=dark" alt="Tools" />
 
-<sub>Also fluent in: Pandas · NumPy · Scikit-Learn · Mathematica · SageMath · PyPortfolioOpt · Assembly &amp; Systems Programming</sub>
+<sub>Also fluent in: Pandas · NumPy · Scikit-Learn · PyTorch · Mathematica · SageMath · PyPortfolioOpt · Assembly &amp; Systems Programming</sub>
 
 <br/>
 
